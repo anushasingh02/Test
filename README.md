@@ -1,3 +1,3 @@
-# First Repository
+# Demo Repository
 
-This is a test
+This is a test.
